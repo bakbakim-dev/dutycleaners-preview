@@ -177,6 +177,38 @@
 /2011/how-cleaning-services-improve-your-homes-health/  /blog/  301!
 /2011/how-cleaning-services-improve-your-homes-health  /blog/  301!
 
+# ---------------------------------------------------------------------------
+# Gap fill, from a full pass over the 16-month Search Console export (139 URLs).
+# These are the only earning URLs that matched neither a rule above, nor a
+# sitemap route, nor a preserved legacy URL. Small — 4 clicks, 793 impressions —
+# but each one currently answers 200 with the SPA shell, which is a soft 404.
+/faq/  /faqs/  301!
+/faq  /faqs/  301!
+/end-tenancy-cleaning/  /move-out-cleaning-edmonton/  301!
+/end-tenancy-cleaning  /move-out-cleaning-edmonton/  301!
+/calgary/  /cleaning-services-calgary/  301!
+/why-choose-a-professional-cleaner/  /blog/choosing-cleaning-company/  301!
+/why-choose-a-professional-cleaner  /blog/choosing-cleaning-company/  301!
+/home/  /  301!
+/home  /  301!
+
+# WordPress infrastructure that will never return. These have no successor and
+# no business answering 200: without them the SPA fallback below serves the app
+# shell for /wp-admin/, every stale image URL and every paginated archive, which
+# is the soft-404 pattern at its worst — a 200 tells a crawler to keep the URL.
+# 410 rather than 404: the content is deliberately gone, and 410 de-indexes faster.
+/wp-content/*  /404.html  410
+/wp-includes/*  /404.html  410
+/wp-json/*  /404.html  410
+/wp-admin/*  /404.html  410
+/wp-login.php  /404.html  410
+/xmlrpc.php  /404.html  410
+/feed/  /404.html  410
+/comments/feed/  /404.html  410
+/author/*  /404.html  410
+/page/*  /blog/  301!
+/category/*/page/*  /blog/  301!
+
 # Trailing-slash normalisation is handled by the HOST, not here: a catch-all
 # rule would match the slash form too and loop. Netlify/Cloudflare Pages do it
 # by default ("Pretty URLs"); Vercel needs trailingSlash: true.
