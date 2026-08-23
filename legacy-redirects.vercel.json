@@ -1,148 +1,149 @@
 {
+  "trailingSlash": true,
   "redirects": [
     {
       "source": "/8038/how-much-does-a-house-cleaning-cost",
-      "destination": "/how-much-does-a-house-cleaning-cost",
+      "destination": "/how-much-does-a-house-cleaning-cost/",
       "permanent": true
     },
     {
       "source": "/8081/the-top-5-must-have-cleaning-products-for-a-spotless-home",
-      "destination": "/blog",
+      "destination": "/blog/",
       "permanent": true
     },
     {
       "source": "/8060/how-often-should-a-cleaning-service-clean-my-house",
-      "destination": "/blog/cleaning-frequency",
+      "destination": "/blog/cleaning-frequency/",
       "permanent": true
     },
     {
       "source": "/services/move-in-move-out-cleaning",
-      "destination": "/move-out-cleaning-edmonton",
+      "destination": "/move-out-cleaning-edmonton/",
       "permanent": true
     },
     {
       "source": "/8088/cleaning-with-vinegar-and-baking-soda",
-      "destination": "/cleaning-with-vinegar-and-baking-soda",
+      "destination": "/cleaning-with-vinegar-and-baking-soda/",
       "permanent": true
     },
     {
       "source": "/8102/a-house-cleaning-schedule-that-does-not-overwhelm-you",
-      "destination": "/blog/cleaning-schedule",
+      "destination": "/blog/cleaning-schedule/",
       "permanent": true
     },
     {
       "source": "/services/commercial-cleaning",
-      "destination": "/commercial-cleaning",
+      "destination": "/commercial-cleaning/",
       "permanent": true
     },
     {
       "source": "/services/post-construction-cleaning",
-      "destination": "/post-construction-cleaning",
+      "destination": "/post-construction-cleaning/",
       "permanent": true
     },
     {
       "source": "/booking-page",
-      "destination": "/book",
+      "destination": "/book/",
       "permanent": true
     },
     {
       "source": "/move-in-move-out-cleaning",
-      "destination": "/move-out-cleaning-edmonton",
+      "destination": "/move-out-cleaning-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-for-fort-saskatchewan-ab",
-      "destination": "/cleaning-services-fort-saskatchewan",
+      "destination": "/cleaning-services-fort-saskatchewan/",
       "permanent": true
     },
     {
       "source": "/1948/house-cleaning-tips-for-a-spotless-home-environment",
-      "destination": "/blog",
+      "destination": "/blog/",
       "permanent": true
     },
     {
       "source": "/march-out-cleaning-calgary",
-      "destination": "/move-out-cleaning-calgary",
+      "destination": "/move-out-cleaning-calgary/",
       "permanent": true
     },
     {
       "source": "/how-to-deep-clean-your-home",
-      "destination": "/edmonton/deep-cleaning",
+      "destination": "/edmonton/deep-cleaning/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-okotoks",
-      "destination": "/locations/okotoks",
+      "destination": "/locations/okotoks/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-black-diamond",
-      "destination": "/locations/black-diamond",
+      "destination": "/locations/black-diamond/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-chestermere",
-      "destination": "/locations/chestermere",
+      "destination": "/locations/chestermere/",
       "permanent": true
     },
     {
       "source": "/10042/cleaning-services-calgary-transform-your-space",
-      "destination": "/cleaning-services-calgary",
+      "destination": "/cleaning-services-calgary/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-downtown-edmonton-ab",
-      "destination": "/locations/downtown-edmonton",
+      "destination": "/locations/downtown-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-langdon",
-      "destination": "/locations/langdon",
+      "destination": "/locations/langdon/",
       "permanent": true
     },
     {
       "source": "/airbnb-cleaning-service",
-      "destination": "/edmonton/airbnb-cleaning",
+      "destination": "/edmonton/airbnb-cleaning/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-strathmore",
-      "destination": "/locations/strathmore",
+      "destination": "/locations/strathmore/",
       "permanent": true
     },
     {
       "source": "/march-out-cleaning-edmonton",
-      "destination": "/edmonton/march-out-cleaning",
+      "destination": "/edmonton/march-out-cleaning/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-red-deer",
-      "destination": "/locations",
+      "destination": "/locations/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-glenora-edmonton-ab",
-      "destination": "/locations/glenora-edmonton",
+      "destination": "/locations/glenora-edmonton/",
       "permanent": true
     },
     {
       "source": "/1848/house-cleaning-hacks-easy-tips-for-busy-lives",
-      "destination": "/blog",
+      "destination": "/blog/",
       "permanent": true
     },
     {
       "source": "/how-often-should-a-cleaning-service-clean-my-house",
-      "destination": "/blog/cleaning-frequency",
+      "destination": "/blog/cleaning-frequency/",
       "permanent": true
     },
     {
       "source": "/services/wall-washing-wall-cleaning",
-      "destination": "/wall-washing-wall-cleaning",
+      "destination": "/wall-washing-wall-cleaning/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-riverdale-edmonton-ab",
-      "destination": "/locations/riverdale-edmonton",
+      "destination": "/locations/riverdale-edmonton/",
       "permanent": true
     },
     {
@@ -152,22 +153,22 @@
     },
     {
       "source": "/the-top-5-must-have-cleaning-products-for-a-spotless-home",
-      "destination": "/blog",
+      "destination": "/blog/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-avonmore-edmonton-ab",
-      "destination": "/locations/avonmore-edmonton",
+      "destination": "/locations/avonmore-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-hazeldean-edmonton-ab",
-      "destination": "/locations/hazeldean",
+      "destination": "/locations/hazeldean/",
       "permanent": true
     },
     {
       "source": "/the-benefits-of-using-leather-conditioner-for-automotive-seats-and-home-furniture",
-      "destination": "/blog",
+      "destination": "/blog/",
       "permanent": true
     },
     {
@@ -177,32 +178,32 @@
     },
     {
       "source": "/2038/top-benefits-of-professional-cleaning-services-today",
-      "destination": "/blog",
+      "destination": "/blog/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-turner-valley",
-      "destination": "/locations/turner-valley",
+      "destination": "/locations/turner-valley/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-crossfield",
-      "destination": "/locations/crossfield",
+      "destination": "/locations/crossfield/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-bonnie-doon-edmonton-ab",
-      "destination": "/locations/bonnie-doon-edmonton",
+      "destination": "/locations/bonnie-doon-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-abbottsfield-edmonton-ab",
-      "destination": "/locations/abbottsfield-edmonton",
+      "destination": "/locations/abbottsfield-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-canora-edmonton-ab",
-      "destination": "/locations/canora-edmonton",
+      "destination": "/locations/canora-edmonton/",
       "permanent": true
     },
     {
@@ -212,137 +213,137 @@
     },
     {
       "source": "/cleaning-services-greenfield-edmonton-ab",
-      "destination": "/locations/greenfield-edmonton",
+      "destination": "/locations/greenfield-edmonton/",
       "permanent": true
     },
     {
       "source": "/why-hire-duty-cleaners-for-commercial-cleaning",
-      "destination": "/commercial-cleaning",
+      "destination": "/commercial-cleaning/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-dovercourt-edmonton-ab",
-      "destination": "/locations/dovercourt-edmonton",
+      "destination": "/locations/dovercourt-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-evansdale-edmonton-ab",
-      "destination": "/locations/evansdale-edmonton",
+      "destination": "/locations/evansdale-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-ambleside-edmonton-ab",
-      "destination": "/locations/ambleside-edmonton",
+      "destination": "/locations/ambleside-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-glenwood-edmonton-ab",
-      "destination": "/locations/glenwood-edmonton",
+      "destination": "/locations/glenwood-edmonton/",
       "permanent": true
     },
     {
       "source": "/tag/cleaning-services",
-      "destination": "/blog",
+      "destination": "/blog/",
       "permanent": true
     },
     {
       "source": "/services-pricing/commercial-cleaning-edmonton",
-      "destination": "/commercial-cleaning",
+      "destination": "/commercial-cleaning/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-ottewell-edmonton-ab",
-      "destination": "/locations/ottewell-edmonton",
+      "destination": "/locations/ottewell-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-inglewood-edmonton-ab",
-      "destination": "/locations/inglewood",
+      "destination": "/locations/inglewood/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-mcconachie-edmonton-ab",
-      "destination": "/locations/mcconachie-edmonton",
+      "destination": "/locations/mcconachie-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-belvedere-edmonton-ab",
-      "destination": "/locations/belvedere-edmonton",
+      "destination": "/locations/belvedere-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-boyle-street-edmonton-ab",
-      "destination": "/locations/boyle-street-edmonton",
+      "destination": "/locations/boyle-street-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-delton-edmonton-ab",
-      "destination": "/locations/delton",
+      "destination": "/locations/delton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-aspen-gardens-edmonton-ab",
-      "destination": "/locations/aspen-gardens-edmonton",
+      "destination": "/locations/aspen-gardens-edmonton/",
       "permanent": true
     },
     {
       "source": "/1735/choosing-the-right-cleaning-company-for-your-needs",
-      "destination": "/blog/choosing-cleaning-company",
+      "destination": "/blog/choosing-cleaning-company/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-high-river",
-      "destination": "/locations/high-river",
+      "destination": "/locations/high-river/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-allendale-edmonton-ab",
-      "destination": "/locations/allendale",
+      "destination": "/locations/allendale/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-matt-berry-edmonton-ab",
-      "destination": "/locations/matt-berry-edmonton",
+      "destination": "/locations/matt-berry-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-beacon-heights-edmonton-ab",
-      "destination": "/locations/beacon-heights-edmonton",
+      "destination": "/locations/beacon-heights-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-rapperswill-edmonton-ab",
-      "destination": "/locations/rapperswill-edmonton",
+      "destination": "/locations/rapperswill-edmonton/",
       "permanent": true
     },
     {
       "source": "/march-out-cleaning",
-      "destination": "/edmonton/march-out-cleaning",
+      "destination": "/edmonton/march-out-cleaning/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-queen-alexandra-edmonton-ab",
-      "destination": "/locations/queen-alexandra-edmonton",
+      "destination": "/locations/queen-alexandra-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-montrose-edmonton-ab",
-      "destination": "/locations/montrose",
+      "destination": "/locations/montrose/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-prince-charles-edmonton-ab",
-      "destination": "/locations/prince-charles-edmonton",
+      "destination": "/locations/prince-charles-edmonton/",
       "permanent": true
     },
     {
       "source": "/natural-cleaning-solutions-for-your-kitchen-appliances",
-      "destination": "/cleaning-with-vinegar-and-baking-soda",
+      "destination": "/cleaning-with-vinegar-and-baking-soda/",
       "permanent": true
     },
     {
       "source": "/services-pricing/move-in-move-out",
-      "destination": "/move-out-cleaning-edmonton",
+      "destination": "/move-out-cleaning-edmonton/",
       "permanent": true
     },
     {
@@ -352,42 +353,42 @@
     },
     {
       "source": "/cleaning-services-glengarry-edmonton-ab",
-      "destination": "/locations/glengarry-edmonton",
+      "destination": "/locations/glengarry-edmonton/",
       "permanent": true
     },
     {
       "source": "/checkout",
-      "destination": "/book",
+      "destination": "/book/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-capilano-edmonton-ab",
-      "destination": "/locations/capilano-edmonton",
+      "destination": "/locations/capilano-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-castle-downs-edmonton-ab",
-      "destination": "/locations/castle-downs",
+      "destination": "/locations/castle-downs/",
       "permanent": true
     },
     {
       "source": "/airbnb-cleaning-services-edmonton",
-      "destination": "/edmonton/airbnb-cleaning",
+      "destination": "/edmonton/airbnb-cleaning/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-hermitage-edmonton-ab",
-      "destination": "/locations/hermitage-edmonton",
+      "destination": "/locations/hermitage-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-casselman-edmonton-ab",
-      "destination": "/locations/casselman-edmonton",
+      "destination": "/locations/casselman-edmonton/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-griesbach-edmonton-ab",
-      "destination": "/locations/griesbach-edmonton",
+      "destination": "/locations/griesbach-edmonton/",
       "permanent": true
     },
     {
@@ -402,12 +403,12 @@
     },
     {
       "source": "/cochrane-cleaning-services",
-      "destination": "/cleaning-services-cochrane",
+      "destination": "/cleaning-services-cochrane/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-belmont-edmonton-ab",
-      "destination": "/locations/belmont-edmonton",
+      "destination": "/locations/belmont-edmonton/",
       "permanent": true
     },
     {
@@ -417,17 +418,17 @@
     },
     {
       "source": "/what-to-expect-from-professional-cleaners",
-      "destination": "/blog/choosing-cleaning-company",
+      "destination": "/blog/choosing-cleaning-company/",
       "permanent": true
     },
     {
       "source": "/cleaning-services-lauderdale-edmonton-ab",
-      "destination": "/locations/lauderdale",
+      "destination": "/locations/lauderdale/",
       "permanent": true
     },
     {
       "source": "/2011/how-cleaning-services-improve-your-homes-health",
-      "destination": "/blog",
+      "destination": "/blog/",
       "permanent": true
     }
   ]
