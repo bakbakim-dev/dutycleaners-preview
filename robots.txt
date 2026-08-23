@@ -1,0 +1,4 @@
+# STAGING PREVIEW — not the live site.
+# Full disallow so this build can never compete with dutycleaners.ca in search.
+User-agent: *
+Disallow: /
