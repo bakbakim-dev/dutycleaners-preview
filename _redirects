@@ -6,11 +6,10 @@
 #
 # Preserved legacy URLs are NOT listed here: they are served directly and are
 # canonical. Only superseded URLs redirect.
-
 /8038/how-much-does-a-house-cleaning-cost/  /how-much-does-a-house-cleaning-cost/  301!
 /8038/how-much-does-a-house-cleaning-cost  /how-much-does-a-house-cleaning-cost/  301!
-/8081/the-top-5-must-have-cleaning-products-for-a-spotless-home/  /blog/  301!
-/8081/the-top-5-must-have-cleaning-products-for-a-spotless-home  /blog/  301!
+/8081/the-top-5-must-have-cleaning-products-for-a-spotless-home/  /the-top-5-must-have-cleaning-products-for-a-spotless-home/  301!
+/8081/the-top-5-must-have-cleaning-products-for-a-spotless-home  /the-top-5-must-have-cleaning-products-for-a-spotless-home/  301!
 /8060/how-often-should-a-cleaning-service-clean-my-house/  /blog/cleaning-frequency/  301!
 /8060/how-often-should-a-cleaning-service-clean-my-house  /blog/cleaning-frequency/  301!
 /services/move-in-move-out-cleaning/  /move-out-cleaning-edmonton/  301!
@@ -67,8 +66,6 @@
 /cleaning-services-riverdale-edmonton-ab  /locations/riverdale-edmonton/  301!
 /cleaning-services-edmonton/  /  301!
 /cleaning-services-edmonton  /  301!
-/the-top-5-must-have-cleaning-products-for-a-spotless-home/  /blog/  301!
-/the-top-5-must-have-cleaning-products-for-a-spotless-home  /blog/  301!
 /cleaning-services-avonmore-edmonton-ab/  /locations/avonmore-edmonton/  301!
 /cleaning-services-avonmore-edmonton-ab  /locations/avonmore-edmonton/  301!
 /cleaning-services-hazeldean-edmonton-ab/  /locations/hazeldean/  301!
@@ -182,8 +179,7 @@
 
 # Trailing-slash normalisation is handled by the HOST, not here: a catch-all
 # rule would match the slash form too and loop. Netlify/Cloudflare Pages do it
-# by default ("Pretty URLs"); Vercel needs trailingSlash: true (already set in
-# legacy-redirects.vercel.json); Apache/nginx rules are in the sibling files.
+# by default ("Pretty URLs"); Vercel needs trailingSlash: true.
 
 # SPA fallback (must stay last)
 /*  /index.html  200

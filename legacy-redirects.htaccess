@@ -2,7 +2,7 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RedirectPermanent /8038/how-much-does-a-house-cleaning-cost /how-much-does-a-house-cleaning-cost/
-RedirectPermanent /8081/the-top-5-must-have-cleaning-products-for-a-spotless-home /blog/
+RedirectPermanent /8081/the-top-5-must-have-cleaning-products-for-a-spotless-home /the-top-5-must-have-cleaning-products-for-a-spotless-home/
 RedirectPermanent /8060/how-often-should-a-cleaning-service-clean-my-house /blog/cleaning-frequency/
 RedirectPermanent /services/move-in-move-out-cleaning /move-out-cleaning-edmonton/
 RedirectPermanent /8088/cleaning-with-vinegar-and-baking-soda /cleaning-with-vinegar-and-baking-soda/
@@ -31,7 +31,6 @@ RedirectPermanent /how-often-should-a-cleaning-service-clean-my-house /blog/clea
 RedirectPermanent /services/wall-washing-wall-cleaning /wall-washing-wall-cleaning/
 RedirectPermanent /cleaning-services-riverdale-edmonton-ab /locations/riverdale-edmonton/
 RedirectPermanent /cleaning-services-edmonton /
-RedirectPermanent /the-top-5-must-have-cleaning-products-for-a-spotless-home /blog/
 RedirectPermanent /cleaning-services-avonmore-edmonton-ab /locations/avonmore-edmonton/
 RedirectPermanent /cleaning-services-hazeldean-edmonton-ab /locations/hazeldean/
 RedirectPermanent /the-benefits-of-using-leather-conditioner-for-automotive-seats-and-home-furniture /blog/
@@ -88,7 +87,6 @@ RedirectPermanent /what-to-expect-from-professional-cleaners /blog/choosing-clea
 RedirectPermanent /cleaning-services-lauderdale-edmonton-ab /locations/lauderdale/
 RedirectPermanent /2011/how-cleaning-services-improve-your-homes-health /blog/
 
-# Add the trailing slash the site has always used (skip real files).
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]{2,5}$
 RewriteCond %{REQUEST_URI} !(.*)/$
