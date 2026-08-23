@@ -1,0 +1,1 @@
+const e="https://dutycleaners.ca";function r(t){const n="/dutycleaners-preview/",a=t.startsWith(n)?`/${t.slice(n.length)}`:t;return new URL(a,e).href}const s={"@type":"Organization",name:"Duty Cleaners","@id":`${e}/#org`,logo:{"@type":"ImageObject",url:`${e}/logo.png`}},o={"@type":"Organization",name:"Duty Cleaners",url:`${e}/`};export{o as A,r as a,s as b};
