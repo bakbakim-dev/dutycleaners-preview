@@ -49,7 +49,7 @@ Transparent flat-rate pricing by home size. Recurring customers save 10–20% de
 ## Locations
 
 - [Edmonton](https://dutycleaners.ca/): 79 neighbourhoods plus St. Albert, Sherwood Park, Spruce Grove, Leduc, Beaumont, Fort Saskatchewan, Stony Plain, Morinville, and Devon
-- [Calgary](https://dutycleaners.ca/calgary-2): 66 neighbourhoods plus Airdrie, Cochrane, Chestermere, Okotoks, High River, and more
+- [Calgary](https://dutycleaners.ca/calgary): 66 neighbourhoods plus Airdrie, Cochrane, Chestermere, Okotoks, High River, and more
 - [All Locations](https://dutycleaners.ca/locations): Full list of neighbourhoods and communities we serve
 
 ## Documentation
